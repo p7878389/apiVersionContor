@@ -1,0 +1,3 @@
+api:
+  version:
+    type: HEADER
